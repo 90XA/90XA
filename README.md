@@ -69,7 +69,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/894697536663715860">
-        <img title="9os Server" alt="9os Discord" src="https://discord.c99.nl/widget/theme-5/894697536663715860.png"/>
+        <img title="9os Server" alt="9os Discord" src="https://discord.c99.nl/widget/theme-1/894697536663715860.png"/>
     </a>
 </p>
 

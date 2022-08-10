@@ -41,7 +41,7 @@
         <img title="9os Stats" alt="SarnaxLii'W" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/90XA"><img alt="SarnaxLiiW" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+
   
 
 

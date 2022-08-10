@@ -52,10 +52,7 @@
 
 - 👋 Hello I'am 9o Full Stack Developer
 
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
-
-
-- 💬 Discord [9o#5599]) | [Valory PROJECT](https://discord.gg/p2c)
+- 💬 Discord [9o#5599]) | [Valory](https://discord.gg/p2c)
 
 </pre><br>
 

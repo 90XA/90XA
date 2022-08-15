@@ -52,7 +52,7 @@
 
 - 👋 Hello I'am 9o Full Stack Developer
 
-- 💬 Discord [9o#5599]) | [Valory](https://discord.gg/p2c)
+- 💬 Discord [desire#0001]) 
 
 </pre><br>
 
